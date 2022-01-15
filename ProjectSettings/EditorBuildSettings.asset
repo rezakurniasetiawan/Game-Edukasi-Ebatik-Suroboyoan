@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 3d0770d0657c7424caccc5d30a5b8642
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 1155ebc160629d540a684f22fd78fd78
+  - enabled: 1
+    path: Assets/Scenes/TentangApp.unity
+    guid: 3a646174b37be0b45beb3c5304c06549
+  - enabled: 1
+    path: Assets/Scenes/MenuMateri.unity
+    guid: b3a4085069175a94bba056eba81a63d2
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 87f952a8397a42442a650f6d8a938c39
+  - enabled: 1
+    path: Assets/Scenes/Batik1.unity
+    guid: 8d51d0b25100b994d87e66b3d20cba76
+  - enabled: 1
+    path: Assets/Scenes/Batik2.unity
+    guid: 8c617bd021401344e9bc413e6b509b48
+  - enabled: 1
+    path: Assets/Scenes/Batik3.unity
+    guid: 8cded3a01676933488948c4470c7334d
+  - enabled: 1
+    path: Assets/Scenes/Batik4.unity
+    guid: 5b55864faf0dfae42b2e89c042f2de24
+  - enabled: 1
+    path: Assets/Scenes/Batik5.unity
+    guid: b6c4ae127e085df4b90aed20a43d02ef
+  - enabled: 1
+    path: Assets/Scenes/Game1.unity
+    guid: 39647065cbaa2fd4cba89b281855c993
+  - enabled: 1
+    path: Assets/Scenes/Game2.unity
+    guid: ed98d2c047822e540b83bb293a481709
+  - enabled: 1
+    path: Assets/Scenes/Game3.unity
+    guid: dbb0d84954d15be42bc6e8792b161d40
+  - enabled: 1
+    path: Assets/Scenes/Game4.unity
+    guid: 08fcdbe5346eb1249aa76bf53baaf1c7
+  - enabled: 1
+    path: Assets/Scenes/Gameopen2.unity
+    guid: 6a4a0515c5f1662489d3f23598a570f8
+  - enabled: 1
+    path: Assets/Scenes/Gameopen3.unity
+    guid: 6d867b4170d353849912a9154fec0bb1
+  - enabled: 1
+    path: Assets/Scenes/Gameopen4.unity
+    guid: 28e11bdd10663e54b8108407122491e1
+  - enabled: 1
+    path: Assets/Scenes/KompetisiDasar.unity
+    guid: 3763a4a63ed3a7147a1174332aa6dced
+  m_configObjects: {}
